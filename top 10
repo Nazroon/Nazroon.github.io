@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Top10</title>
+</head>
+<style>
+
+    #main-img{
+        position: relative;
+        left: 15%;
+    }
+
+    body{
+        background-color: rgb(210, 230, 248);
+        
+    }
+
+    h2{
+        font-size: 32px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+      
+    #block1{
+        line-height: .1em;
+    }
+    #details{
+        margin-left: 150px;
+        margin-right: 250px;
+    }
+    .predator{
+        font-size: 20px;
+        
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+        
+    }
+
+
+    .list{
+        font-size: 20px;
+       font-family: cursive; 
+       font-weight: bold;
+
+    }
+    #firstpara{
+        font-size: 20px;
+        
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+        
+    }
+
+</style>
+<body>
+    
+   
+<img id="main-img" src="https://www.psdstamps.com/wp-content/uploads/2020/02/grunge-top-10-label-png.png" width ="600" height="300">
+
+<div id="details">
+<div id="block1"><h2 id="subject">Top 10 predators in the world</h2></div>
+
+<div id="firstpara">
+<p>  <b>Predation</b> certainly sounds (and is) utterly brutal.There's simply no way to sugarcoat the pursuit and killing of animals,
+except to say that it's done for survival.Fearsome though they are, predators are actually an incredibly important part of the
+world's ecosystem because they keep animal and plant populations from getting out of control, and thus riddled with disease.</p>
+
+<p> Whether they hunt solo or in a pack,predators are equipped with some truly fearsome tools to help them
+get the job done. Some, such as birds of prey, sport incredibly sharp vision capabilities,whereas others
+rely almost exclusively on their sense of smell to locate prey. Don't feel too sorry for their would-be
+victims,however.They have their own armory of defense mechanisms to provide protection,including
+camouflage, speed and even poisonous skin.</p>
+
+<p>Although all predators are terrifying in their own right, some inspire more fear than others, whether by their size,
+hunting skills or sheer cunning. So take a look at this list of the top 10 predators in the world to satisfy your 
+curiosity from a safe distance. Trust us, you don't want to come across one in person. The end result might not be pretty.</p>
+</div>
+<hr>
+
+<h2>Contents:</h2>
+<ol class="list" reversed >
+    <li ><a href="#p10">Tarantula</a></li>
+    <li ><a href="#p9">Black Mamba</a></li>
+    <li ><a href=#p8>Piranha</a></li>
+    <li ><a href="#p7">Wolf</a></li>
+    <li ><a href="#p6">Komodo Dragon</a></li>
+    <li ><a href="#p5">Crocodile</a></li>
+    <li ><a href="#p4">Killer Whale</a></li>
+    <li ><a href="#p3">Grizzly Bear</a></li>
+    <li ><a href="#p2">Lion</a></li>
+    <li ><a href="#p1">Great White Shark</a></li>
+</ol>
+
+<h2 id="p10">10.Tarantula</h2>
+<p class="predator"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brachypelma_klaasi_2009_G01_cropped.jpg/1200px-Brachypelma_klaasi_2009_G01_cropped.jpg" width="250" height="200">
+     Tarantula spiders are among the most feared animals on the planet, and with good reason.
+    Not only are they giants as spiders go (they can reach 5 inches in length with a 12-inch leg span),
+    but they are such stealthy and skilled hunters. The typical hunting modus operandi for tarantulas is to be patient.
+    They lie in wait for hapless passersby and then pounce without warning, quickly subduing the prey and crushing them
+    with their large fangs. In an especially upsetting twist, they then shower their victim's body with digestive
+    juices and lap up the resulting fluid.
+</p>
+<h2 id="p9">9.Black Mamba</h2>
+
+<p class="predator"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis_polylepis_%2814%29.jpg/1280px-Dendroaspis_polylepis_%2814%29.jpg" width="250" height="200"> 
+    Africa is home to some pretty intimidating predators, but the most fearsome animal may well be the
+    black mamba, the giant venomous snake found throughout the southeastern portion of the continent.
+    Averaging a spine-chilling 8.2 feet in length,the mamba gets its name from the black skin on the inside of its mouth,
+    which the mamba displays just before it strikes.These animals are usually quite shy, but can be extremely aggressive
+    (and thus terrifying) when confronted. When they do attack,they tend to strike their victims repeatedly,
+    releasing a lethal mix of neurotoxin and cardiotoxin. In the past, a bite from a black mamba
+    was 100 percent fatal. Now, that figure is decreasing due to the use of anti-venom throughout the continent. Still, best to avoid 
+    these bad boys!
+
+</p> 
+
+<h2 id="p8">8.Piranha</h2>
+
+<p class="predator"> <img src="https://i0.wp.com/www.thingsguyana.com/wp-content/uploads/2019/04/42-63027125.jpg?resize=800%2C509&ssl=1" width="250" height="200">
+     Of all the fish in all the world's waters, the piranha may have the worst reputation. 
+    One look at this predator's razor-sharp teeth and powerful jaws is enough to send chills up anyone's spine. 
+    Although it's known worldwide for its aggressive feeding behavior, the piranha is only found throughout the 
+    fresh waters of South America. They typically feed at dawn and dusk, lurking in the water and waiting for a small animal to pass by.
+     Then, without warning, they attack and devour their prey with impressive ferocity. Sometimes they even form terrifying hunting groups 
+    in order to take down much larger prey, including horses, capybaras or even humans.</p>
+
+<h2 id="p7">7.Grey Wolf</h2>
+
+<p class="predator"><img src="https://th.bing.com/th/id/OIP.e8F8EL2BDLGV1t8bpUqDOgHaE8?pid=ImgDet&rs=1" width="250" height="200"> Most of the world's 
+    top predators are strict loners, preferring to rely on their own individual
+     prowess to bring down prey. But gray wolves run in a pack for a reason -- 
+     their coordinated efforts make them one of the most successful (and deadly) animals on this list. 
+     A typical wolf attack begins with members of the pack working together to encourage their victim to run. 
+     Not only is a lone animal easier to bring down than one that is in a herd, but a running animal poses less of a 
+     threat than one that is poised to fight. Then, the alpha male takes over to lead the chase, with his alpha female close behind. 
+    Once their victim stumbles and falls to the ground, the pack surrounds the animal and goes in for the kill.</p>
+
+<h2 id="p6">6.Komodo Dragon</h2>
+
+<p class="predator"><img src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555443787/shape/mentalfloss/istock_000047067400_small.jpg?itok=a16ajY2i" width="250" height="200"> The largest of all lizards, 
+    the Komodo dragon is a mighty reptile that weighs up to 300 pounds and can reach a length of more than 10 feet.
+    This animal takes our No. 6 spot for having multiple predatory advantages: speed, strength and the tenacity to
+    bring down prey twice its size. They also have a toxic bite. In fact, any victim that temporarily survives a 
+    Komodo dragon attack is likely to succumb to their wounds soon after. Komodos mainly hunt by ambushing their 
+    prey, but they are also fast runners and exceptional swimmers, making them a deadly triple-threat. Once they've
+    successfully nabbed their prey it's time for a feast of epic proportions, as Komodos can devour up to half their
+    own body weight in a single meal.</p>
+
+<h2 id="p5">5.Crocodile</h2>
+
+<p class="predator"><img src="https://th.bing.com/th/id/R.cb74809f44d423b693f72e9465c4bad7?rik=vhoUCkTmpb75Sg&riu=http%3a%2f%2fxmwallpapers.com%2fwallpaper%2fanimals%2fmisc%2fcb74809f44d423b693f72e9465c4bad7.jpg&ehk=EkFu%2b6ocNkXZZgZu%2ftoTgdX9msaYDeo5pij9zK4bNBU%3d&risl=&pid=ImgRaw&r=0" width="250" height="200">   Crocodiles are the ultimate lurkers. Camouflaged by the surrounding environment, they lie in wait for 
+    potential victims who are unaware of the danger until it's too late. This stealthy and extremely violent predator boasts 
+    long, powerful jaws and teeth, and preys on a variety of animals. Some species, such as the Nile crocodile, which can 
+    grow up to 20 feet long, can bring down exceptionally large prey, like zebras and buffalo. Its typical mode of attack 
+    is to wait at the water's edge for an animal to come to drink and then drag the hapless creature underwater. They then 
+    spin the victim around forcefully and repeatedly in order to tear off chunks of flesh, causing fatal wounds. Known as 
+    the "death roll," this experience is about as pleasant as it sounds.</p>
+
+
+<h2 id="p4" >4.Killer Whale</h2>
+    
+    <p class="predator"><img src="https://res.cloudinary.com/adrenalinecomau/image/upload/q_auto,f_auto/v1576025735/adventures/eps_7187.jpg" width="250" height="200"> Orcas, better known as "killer whales," 
+    are deadly predators, combining remarkable skill with awesome physical power. Indeed, orcas have a number of ingenious techniques 
+    in their hunting arsenal, giving them one of the most diverse diets of all aquatic predators. For example, they are fond of 
+    knocking seals and penguins from ice floes in order to seize them as they fall into the water. They have also been known to 
+    intentionally beach themselves in order to reach seals onshore. Highly social animals, killer whales tend to live in pods 
+    made up of dozens of individuals working cooperatively to snag prey. Some have even been known to successfully hunt and feed 
+    on great white sharks, which is just a whole new level of vicious.</p> 
+
+<h2 id="p3">3.Grizzly Bear</h2>
+
+    <p class="predator"><img src="https://i.pinimg.com/originals/85/df/cf/85dfcf4d8449181c6eb0b18bf0e8888d.jpg" width="250" height="200"> The grizzly bear, also known as the brown bear, 
+        is probably the most feared animal in North America. This powerful predatory genius can stand 7 feet tall and weigh more than 
+        800 pounds. Its strong limbs and huge paws can easily kill a man in a single swipe, and its powerful crushing jaws allow it 
+        to feed on a variety of foods, including large mammals. Grizzlies are also strong swimmers and fast runners. Coming face to 
+        face with this animal in the wild can be a harrowing experience, but the best response is actually to stand tall and resist 
+        the urge to run. These animals have been clocked at more than 40 miles per hour, and running away from them can trigger their 
+        chase response.</p>
+
+<h2 id="p2">2.Lion</h2>
+    <p class="predator"><img src="https://th.bing.com/th/id/R.b92510b32103ba44d517b0a6b58f5b3d?rik=%2bu4QnxGgeINp%2bQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f_E6BmO6WzeiU%2fTRYMd4NW5YI%2fAAAAAAAAANY%2f7nAExax0aL4%2fs1600%2fAfrican%2bLion.jpg&ehk=zbZDl1uouwfNujQUfY0A0vOKtNO8eSbNon9EK4lmo8w%3d&risl=&pid=ImgRaw&r=0" width="250" height="200"> Fearsome, but regal in nature, 
+        lions hunt some of the largest prey on Earth, including buffalo and wildebeest. Like other pack animals, part of their 
+        terrific success as predators comes from the fact that they cooperate in their kills. Lions live in social groups called prides, 
+        and all members work together in the hunt. Young lions learn their place in the pride early in life by play-fighting, which 
+        teaches them the skills they'll need for the hunt and determines what role they are most suited to perform. Although the big 
+        cat's hunting success rate is only about one in five, those odds are still impressive when you consider that their prey species 
+        are massive creatures with plenty of fighting power of their own.</p>
+
+
+<h2 id="p1"> 1.Great White Shark</h2>
+    
+    <p class="predator"><img src="https://th.bing.com/th/id/R.4e41402e673477631addc25eaf41e650?rik=FAGRm8vAaIsNPg&pid=ImgRaw&r=0" width="250" height="200"> Any animal 
+    that has the misfortune of being preyed upon by the great white shark stands very little chance of surviving the attack. 
+    Its streamlined body makes it an insanely fast swimmer, capable of agile aquatic acrobatics. It's incredibly strong jaws 
+    feature multiple rows of sharp serrated teeth, each replaced as soon as one is lost. In fact, a single shark can go through 
+    more than 50,000 teeth in its lifetime. Great whites typically begin their attacks with a single punishing bite. The shark 
+    then waits for its victim to be weakened by the wound before it returns to eat, a technique that allows the menacing predator 
+    to feed in relative safety.</p>
+
+<p><em><b>Courtesy:</b></em><a href="https://animals.howstuffworks.com/animal-facts/10-predators.htm">Aliya Hoyt</a></p>
+</div></body>
+</html>
